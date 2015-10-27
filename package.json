@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rainyear/json-pretty/issues"
   },
-  "homepage": "https://github.com/rainyear/json-pretty#readme"
+  "homepage": "https://github.com/rainyear/json-pretty#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
